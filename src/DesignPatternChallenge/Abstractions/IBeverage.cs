@@ -2,6 +2,6 @@ namespace DesignPatternChallenge.Abstractions;
 
 public interface IBeverage
 {
-    decimal GetCoast();
+    decimal GetCost();
     string GetDescription();
 }
